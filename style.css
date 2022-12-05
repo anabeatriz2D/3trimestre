@@ -1,0 +1,11 @@
+body {background-color:#836FFF;text-align:justify;font-size:18px;}
+h1{text-align:center;background-color:#...;color:#...;}
+h3{text-align:justify;color:#...}
+b{color:blue;font-size:18px;}
+i{color:blue;font-size:18px;}
+header,footer{background-color:#...;text-align:center;font-size:13px;}
+main{background-color:#836FFF;}
+.PRIMEIROPARAGRAFO {text-align:justify;font-size:18px;border:black Solid 2px; padding:30px; margin: 30px;}
+.SEGUNDOPARAGRAFO {text-align: justify; font-Size:18px;border :black Solid 2px; padding:30px; margin: 30px;}
+#TITULOIMAGEM {widtth:5% ; height: 5%;}
+#Lista {display: inline-block;}
